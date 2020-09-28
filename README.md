@@ -26,4 +26,6 @@
 
 ---
 
-⚽️ _Currently working towards releasing [brawlball.io](http://brawlball.io/)_
+<p align="center">
+<i>Currently working towards releasing <a href="http://brawlball.io/">brawlball.io</a></i> ⚽️
+</p>
