@@ -1,0 +1,54 @@
+<svg fill="none" viewBox="0 0 800 150" width="800" height="150" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				@keyframes gradientBackground {
+					0% { background-position: 0% 50%; }
+					50% { background-position: 100% 50%; }
+					100% { background-position: 0% 50%; }
+				}
+
+				.container {
+					font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+					display: flex;
+					flex-direction: column;
+					align-items: center;
+					justify-content: center;
+					margin: 0;
+					width: 100%;
+					height: 150px;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 300%;
+					animation: gradientBackground 10s ease infinite;
+					border-radius: 8px;
+					color: white;
+					background: #000;
+					text-align: center;
+				}
+
+				h1 {
+					-webkit-animation: gradientBackground 8s linear 2s infinite;
+					animation: gradientBackground 8s linear 2s infinite;
+					background: linear-gradient(90deg,#f04040,#f040a1,#7540f0);
+					-webkit-background-clip: text;
+					background-clip: text;
+					background-size: 300% 300%;
+					-webkit-text-fill-color: transparent;
+					font-size: 50px;
+					line-height: 1.3;
+					/*letter-spacing: 5px;*/
+					/*text-transform: uppercase;*/
+				}
+
+				p {
+					font-size: 20px;
+					text-shadow: 0 1px 0 #efefef;
+				}
+			</style>
+
+			<div class="container">
+				<h1>Hi, I'm Endel! 👋</h1>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
