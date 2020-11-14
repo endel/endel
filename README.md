@@ -2,7 +2,7 @@
   <a href="http://gum.co/mazmorra">
     <img src="https://github.com/endel/mazmorra/blob/master/press/legionary-course.png?raw=true" />
   </a>
-  <h3><a href="http://gum.co/mazmorra">Support my work, get my ebook!</a></h3>
+  <h3><a href="http://gum.co/mazmorra">Support my work, get my ebook! 🥰</a></h3>
   <p>Or, <a href="https://www.patreon.com/endel">support me on Patreon</a> to get it!</p>
 </div>
 
