@@ -1,31 +1,13 @@
-<div align="right">
-  <a href="https://patreon.com/endel">
-    <img alt="Endel's Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg" />
+<div align="center">
+  <a href="http://gum.co/mazmorra">
+    <img src="https://github.com/endel/mazmorra/blob/master/press/legionary-course.png?raw=true" />
   </a>
-
-  <a href="https://twitter.com/endel">
-    <img alt="Endel's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/endel/">
-    <img alt="Endel's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-
-  <a href="https://www.instagram.com/endel/">
-    <img alt="Endel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-
-  <a href="https://medium.com/@endel">
-    <img alt="Endel's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-  </a>
-
-  <img width="100%" src="me.svg" />
+  <h3><a href="http://gum.co/mazmorra">Support my work, get my ebook!</a></h3>
+  <p>Or, <a href="https://www.patreon.com/endel">support me on Patreon</a> to get it!</p>
 </div>
-
-<p align="center">I love open-source. I love being part of a community of passionate people, sharing inspiration and being inspired.</p>
 
 ---
 
-<p align="center">
-<i>Currently working towards releasing <a href="http://brawlball.io/">brawlball.io</a></i> ⚽️
-</p>
+- Author & maintainer of [Colyseus](http://colyseus.io/) ⚔️
+- Coming soon: ⚽️ [brawlball.io](http://brawlball.io/) (⏳ source-code, ⏳ pdf/ebook)
+- Previous game: 🗡 [mazmorra.io](https://mazmorra.io/) ([👨‍💻 source-code](https://github.com/endel/mazmorra), [📕 pdf/ebook](http://gum.co/mazmorra))
