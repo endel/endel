@@ -15,5 +15,5 @@
 
 ### My multiplayer games:
 
-- ⚽️ [brawlball.io](http://brawlball.io/)
+- ⚽️ [brawlball.io](https://brawlball.io/)
 - 🗡 [mazmorra.io](https://mazmorra.io/) ([👨‍💻 source-code](https://github.com/endel/mazmorra), [📕 pdf/ebook](http://gum.co/mazmorra))
