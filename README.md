@@ -2,6 +2,7 @@
 
 - ❤️ You can support me on [Patreon](https://www.patreon.com/endel)
 - ️🐦 Follow me on [Twitter](https://twitter.com/endel)
+- 💬 Discord: endel#2163
 
 ### My multiplayer games:
 
