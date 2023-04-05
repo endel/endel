@@ -1,6 +1,6 @@
 ### Hi, I'm Endel! Creator of [Colyseus Multiplayer Framework](http://colyseus.io/) ⚔️
 
-- 💖 You can support my work through [GitHub Sponsors](https://github.com/sponsors/endel/) or [Patreon](https://www.patreon.com/endel)
+- 💖 You can support my work through [GitHub Sponsors](https://github.com/sponsors/endel) or [Patreon](https://www.patreon.com/endel)
 - ️🐦 Follow me on [Twitter](https://twitter.com/endel)
 - 💬 Discord: endel#2163
 
