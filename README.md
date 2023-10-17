@@ -9,8 +9,6 @@
 - ⚽️ [brawlball.io](https://brawlball.io/)
 - 🗡 [mazmorra.io](https://mazmorra.io/) ([👨‍💻 source-code](https://github.com/endel/mazmorra), [📕 pdf/ebook](http://gum.co/mazmorra))
 
- <a href="https://patreon.com/endel"><img src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dendel%26type%3Dpatrons&style=for-the-badge" /></a>
-
-<a href="https://colyseus.io/sponsorkit/sponsors.svg">
-  <img src="https://colyseus.io/sponsorkit/sponsors.svg" width="100%" />
+<a href="https://cdn.jsdelivr.net/gh/colyseus/.github/sponsorkit/sponsors.svg">
+  <img src="https://cdn.jsdelivr.net/gh/colyseus/.github/sponsorkit/sponsors.svg" width="100%" />
 </a>
