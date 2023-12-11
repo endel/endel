@@ -3,6 +3,7 @@
 - 💖 You can support my work via [GitHub Sponsors](https://github.com/sponsors/endel) (Also [Patreon](https://www.patreon.com/endel), or [PayPal](http://paypal.me/endeld))
 - ️🐦 Follow me on [Twitter](https://twitter.com/endel)
 - 💬 Discord: endel#2163
+- 💬 Telegram: https://t.me/endeld
 
 ### My multiplayer games:
 
