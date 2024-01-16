@@ -10,6 +10,6 @@
 - ⚽️ [brawlball.io](https://brawlball.io/)
 - 🗡 [mazmorra.io](https://mazmorra.io/) ([👨‍💻 source-code](https://github.com/endel/mazmorra), [📕 pdf/ebook](http://gum.co/mazmorra))
 
-<a href="https://cdn.jsdelivr.net/gh/colyseus/.github/sponsorkit/sponsors.svg">
-  <img src="https://cdn.jsdelivr.net/gh/colyseus/.github/sponsorkit/sponsors.svg" width="100%" />
+<a href="https://cdn.jsdelivr.net/gh/colyseus/.github@main/sponsorkit/sponsors.svg">
+  <img src="https://cdn.jsdelivr.net/gh/colyseus/.github@main/sponsorkit/sponsors.svg" width="100%" />
 </a>
