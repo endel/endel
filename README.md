@@ -8,16 +8,16 @@
 
 - **[🏒 Air Hockey](https://air-hockey-colyseus.vercel.app/)**: everything is
   predicted, including the puck, the hits, and the goals. (Three.js, Godot and
-  Unity clients.)
-- **[🔫 FPS](https://colyblast-colyseus.vercel.app/)**: a first-person
-  shooter with server-validated hitscan and lag compensation.
+  Unity) ([👨‍💻 source-code](https://github.com/colyseus/air-hockey-demo))
+- **[🔫 FPS](https://colystrike.vercel.app/)**: a first-person
+  shooter with server-validated hitscan and lag compensation ([👨‍💻 source-code](https://github.com/colyseus/fps-colystrike-demo))
 - **[⚔️ MOBA](https://moba-colyseus.vercel.app/)**: three lanes on a deterministic
-  shared simulation, with 5v5 bot matches and server-side fog of war.
+  shared simulation, with 5v5 bot matches and server-side fog of war ([👨‍💻 source-code](https://github.com/colyseus/moba-demo))
 - **[🍄 Platformer](https://platformer-colyseus.vercel.app/)**: a prediction
   harness with rideable moving platforms, plus stomps and dashes that hold up
-  under lag.
+  under lag ([👨‍💻 source-code](https://github.com/colyseus/platformer-demo))
 - **[🏎️ Karts](https://racing-colyseus.vercel.app/)**: hold-to-drift
-  mini-turbos, dead-reckoned rockets, and rewind-based hit checks.
+  mini-turbos, dead-reckoned rockets, and rewind-based hit checks ([👨‍💻 source-code](https://github.com/colyseus/racing-karts-demo))
 
 ### My multiplayer games:
 
