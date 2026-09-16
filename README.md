@@ -6,16 +6,16 @@
 
 ### Latest Colyseus (0.18) demos
 
-- **[🏒 Air Hockey](https://air-hockey-colyseus.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/air-hockey-demo)): everything is
-  predicted, including the puck, the hits, and the goals. (Three.js, Godot and
-  Unity)
 - **[🔫 FPS](https://colystrike.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/fps-colystrike-demo)): a first-person
   shooter with server-validated hitscan and lag compensation
 - **[⚔️ MOBA](https://moba-colyseus.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/moba-demo)): three lanes on a deterministic
   shared simulation, with 5v5 bot matches and server-side fog of war 
 - **[🍄 Platformer](https://platformer-colyseus.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/platformer-demo)): a prediction
   harness with rideable moving platforms, plus stomps and dashes that hold up
-  under lag 
+  under lag
+- **[🏒 Air Hockey](https://air-hockey-colyseus.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/air-hockey-demo)): everything is
+  predicted, including the puck, the hits, and the goals. (Three.js, Godot and
+  Unity)
 - **[🏎️ Karts](https://racing-colyseus.vercel.app/)** ([👨‍💻 source-code](https://github.com/colyseus/racing-karts-demo)): hold-to-drift
   mini-turbos, dead-reckoned rockets, and rewind-based hit checks 
 
